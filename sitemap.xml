@@ -3,23 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://safecardano.github.io/post/about/</loc>
+    <lastmod>2020-09-26T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/about/</loc>
+    <loc>https://safecardano.github.io/post/</loc>
+    <lastmod>2020-09-26T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://safecardano.github.io/</loc>
+    <lastmod>2020-09-26T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://safecardano.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://safecardano.github.io/tags/</loc>
   </url>
   
 </urlset>
